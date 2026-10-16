@@ -1,0 +1,7 @@
+.build/
+dist/
+*.dmg
+*.sha256
+.DS_Store
+DerivedData/
+.swiftpm/

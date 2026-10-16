@@ -1,0 +1,28 @@
+/* EveryTMP - English */
+
+"menu.status" = "CPU %@ · GPU %@";
+"menu.version" = "Version %@";
+"menu.displayMode" = "Temperature to show";
+"menu.mode.cpu" = "CPU";
+"menu.mode.gpu" = "GPU";
+"menu.mode.max" = "Higher (max of CPU/GPU)";
+"menu.interval" = "Refresh interval";
+"menu.interval.seconds" = "%ld sec";
+"menu.launchAtLogin" = "Open at Login";
+"menu.diagnostics" = "Show Diagnostics…";
+"menu.quit" = "Quit EveryTMP";
+
+"diag.title" = "EveryTMP Diagnostics";
+"diag.system" = "System";
+"diag.os" = "OS";
+"diag.smc" = "SMC";
+"diag.smc.open" = "connected";
+"diag.smc.closed" = "not connected";
+"diag.cpu" = "CPU";
+"diag.gpu" = "GPU";
+"diag.noSignal" = "no signal";
+"diag.mode" = "Display mode: %@";
+"diag.interval" = "Refresh interval: %@";
+"diag.refresh" = "Refresh";
+"diag.close" = "Close";
+"diag.note" = "Temperatures are read directly from the SMC (no admin rights or external tools needed). \"--\" means that sensor could not be read.";

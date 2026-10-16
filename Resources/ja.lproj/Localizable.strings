@@ -1,0 +1,28 @@
+/* EveryTMP - Japanese */
+
+"menu.status" = "CPU %@ · GPU %@";
+"menu.version" = "バージョン %@";
+"menu.displayMode" = "表示する温度";
+"menu.mode.cpu" = "CPU";
+"menu.mode.gpu" = "GPU";
+"menu.mode.max" = "高い方（CPU/GPUの最大値）";
+"menu.interval" = "更新間隔";
+"menu.interval.seconds" = "%ld秒";
+"menu.launchAtLogin" = "ログイン時に開く";
+"menu.diagnostics" = "診断情報を表示…";
+"menu.quit" = "EveryTMP を終了";
+
+"diag.title" = "EveryTMP 診断";
+"diag.system" = "システム";
+"diag.os" = "OS";
+"diag.smc" = "SMC";
+"diag.smc.open" = "接続中";
+"diag.smc.closed" = "未接続";
+"diag.cpu" = "CPU";
+"diag.gpu" = "GPU";
+"diag.noSignal" = "信号なし";
+"diag.mode" = "表示モード: %@";
+"diag.interval" = "更新間隔: %@";
+"diag.refresh" = "更新";
+"diag.close" = "閉じる";
+"diag.note" = "温度はSMCから直接読み取っています（管理者権限・外部ツール不要）。「--」はそのセンサーが読み取れなかったことを示します。";
